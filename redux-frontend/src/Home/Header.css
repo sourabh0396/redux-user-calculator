@@ -1,0 +1,37 @@
+/* Header container */
+.header-header {
+    background-color: var(--secondary-color, #ffffff); /* Apply secondary color as background */
+    padding: 10px;
+    color: var(--primary-color, #007bff); /* Text color using primary color */
+}
+
+/* Navigation container */
+.header-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Navigation links and buttons */
+.header-nav-link {
+    color: var(--primary-color, #007bff); /* Use primary color for links and buttons */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.header-nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Profile image */
+.header-nav img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+/* Profile name headers */
+.header-nav h2 {
+    margin-right: 10px;
+}

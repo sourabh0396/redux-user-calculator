@@ -1,0 +1,8 @@
+info: Sep-07-2024 09:38:46: 	Server started on port 5000
+info: Sep-07-2024 10:03:24: 	Server started on port 5000
+info: Sep-07-2024 10:03:55: 	Server started on port 5000
+info: Sep-07-2024 10:05:29: 	Server started on port 5000
+error: Sep-07-2024 10:32:35: 	Error during registration: secretOrPrivateKey must have a value
+error: Sep-07-2024 11:27:47: 	Error during registration: secretOrPrivateKey must have a value
+error: Sep-07-2024 20:11:29: 	Error fetching profile: getaddrinfo ENOTFOUND ac-s9kfulp-shard-00-00.uscvgdc.mongodb.net
+error: Sep-08-2024 11:43:31: 	Error fetching profile: read ECONNRESET
